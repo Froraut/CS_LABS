@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.AssemblyInfo.cs
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LAB5CS\LAB5CS\bin\Debug\net5.0\LAB5CS.exe
+C:\Users\user\source\repos\LAB5CS\LAB5CS\bin\Debug\net5.0\LAB5CS.deps.json
+C:\Users\user\source\repos\LAB5CS\LAB5CS\bin\Debug\net5.0\LAB5CS.runtimeconfig.json
+C:\Users\user\source\repos\LAB5CS\LAB5CS\bin\Debug\net5.0\LAB5CS.runtimeconfig.dev.json
+C:\Users\user\source\repos\LAB5CS\LAB5CS\bin\Debug\net5.0\LAB5CS.dll
+C:\Users\user\source\repos\LAB5CS\LAB5CS\bin\Debug\net5.0\ref\LAB5CS.dll
+C:\Users\user\source\repos\LAB5CS\LAB5CS\bin\Debug\net5.0\LAB5CS.pdb
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.dll
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\ref\LAB5CS.dll
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.pdb
+C:\Users\user\source\repos\LAB5CS\LAB5CS\obj\Debug\net5.0\LAB5CS.genruntimeconfig.cache

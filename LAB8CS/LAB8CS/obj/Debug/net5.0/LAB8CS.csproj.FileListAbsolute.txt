@@ -1,0 +1,16 @@
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.csprojAssemblyReference.cache
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.AssemblyInfoInputs.cache
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.AssemblyInfo.cs
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.csproj.CoreCompileInputs.cache
+D:\с#\LAB8CS\LAB8CS\bin\Debug\net5.0\LAB8CS.exe
+D:\с#\LAB8CS\LAB8CS\bin\Debug\net5.0\LAB8CS.deps.json
+D:\с#\LAB8CS\LAB8CS\bin\Debug\net5.0\LAB8CS.runtimeconfig.json
+D:\с#\LAB8CS\LAB8CS\bin\Debug\net5.0\LAB8CS.runtimeconfig.dev.json
+D:\с#\LAB8CS\LAB8CS\bin\Debug\net5.0\LAB8CS.dll
+D:\с#\LAB8CS\LAB8CS\bin\Debug\net5.0\ref\LAB8CS.dll
+D:\с#\LAB8CS\LAB8CS\bin\Debug\net5.0\LAB8CS.pdb
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.dll
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\ref\LAB8CS.dll
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.pdb
+D:\с#\LAB8CS\LAB8CS\obj\Debug\net5.0\LAB8CS.genruntimeconfig.cache

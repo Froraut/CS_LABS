@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LAB6CS\LAB6CS\bin\Debug\net5.0\LAB6CS.exe
+C:\Users\user\source\repos\LAB6CS\LAB6CS\bin\Debug\net5.0\LAB6CS.deps.json
+C:\Users\user\source\repos\LAB6CS\LAB6CS\bin\Debug\net5.0\LAB6CS.runtimeconfig.json
+C:\Users\user\source\repos\LAB6CS\LAB6CS\bin\Debug\net5.0\LAB6CS.runtimeconfig.dev.json
+C:\Users\user\source\repos\LAB6CS\LAB6CS\bin\Debug\net5.0\LAB6CS.dll
+C:\Users\user\source\repos\LAB6CS\LAB6CS\bin\Debug\net5.0\ref\LAB6CS.dll
+C:\Users\user\source\repos\LAB6CS\LAB6CS\bin\Debug\net5.0\LAB6CS.pdb
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.AssemblyInfo.cs
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.dll
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\ref\LAB6CS.dll
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.pdb
+C:\Users\user\source\repos\LAB6CS\LAB6CS\obj\Debug\net5.0\LAB6CS.genruntimeconfig.cache
